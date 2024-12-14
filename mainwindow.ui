@@ -29,7 +29,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Snake</string>
+   <string>Oral Calculation</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="Button_New">
