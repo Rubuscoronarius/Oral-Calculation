@@ -19,6 +19,7 @@ public:
     ~MainWindow();
 
     static MainWindow* instance() { return m_instance; }  // get m_instance
+    bool game_status;
 
 private slots:
     void on_Button_New_clicked();
