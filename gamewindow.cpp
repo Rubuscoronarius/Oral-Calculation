@@ -90,7 +90,6 @@ void GameWindow::on_Button_Next_clicked() {
         if (mainWin) {
             mainWin->game_status = 0; // 更新游戏状态
         }
-        mainWin->game_status=0;
         if (mainWin) {
             mainWin->show();
             mainWin->raise();
