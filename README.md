@@ -20,3 +20,5 @@ The release version of this app can be found by the name `Oral-Calculation.exe`.
 ## Summary
 
 Have fun when playing!
+
+Your can find this project on my github.["Oral-Calculation"](https://github.com/Rubuscoronarius/Oral-Calculation)
